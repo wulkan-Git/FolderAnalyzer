@@ -6,7 +6,7 @@
 
 > Профессиональный инструмент для анализа структуры папок и файлов
 
-![Screenshot](https://via.placeholder.com/800x450/2d3748/ffffff?text=Folder+Analyzer+Screenshot)
+[![2026-01-12-211029.png](https://i.postimg.cc/fTZTB7tp/2026-01-12-211029.png)](https://postimg.cc/7bskL2Nn)
 
 ## ✨ Возможности
 
