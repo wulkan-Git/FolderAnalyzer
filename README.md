@@ -85,7 +85,7 @@ git clone https://github.com/wulkan-Git/FolderAnalyzer.git
 
 ## 👨‍💻 Автор
 
-**wulkan-Git** — создатель и разработчик
+**Владимир Wulk@n** — создатель и разработчик
 
 - 🌐 **[Мой сайт](https://my.ws-soft.ru)**
 - 💼 **[GitHub](https://github.com/wulkan-Git)**
